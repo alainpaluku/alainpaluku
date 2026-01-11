@@ -6,7 +6,10 @@
 
 [![Website](https://img.shields.io/badge/Website-alainpaluku.com-0A66C2?style=for-the-badge&logo=safari&logoColor=white)](https://alainpaluku.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alainpaluku)
-[![Email](https://img.shields.io/badge/Email-alainpaluku@proton.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:alainpaluku@proton.me)
+[![Email](https://img.shields.io/badge/Email-dev@alainpaluku.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev@alainpaluku.com)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-alainpaluku-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/alainpaluku)
+[![Reddit](https://img.shields.io/badge/Reddit-alainpaluku-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/alainpaluku)
+[![Medium](https://img.shields.io/badge/Medium-alainpaluku-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@alainpaluku)
 
 </div>
 
