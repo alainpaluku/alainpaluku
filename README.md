@@ -58,11 +58,11 @@ Location: Goma, DR Congo
 
 ## What I Do
 
-| | Domain | Description |
-|:--:|:-------|:------------|
-| <img width="40" src="https://img.icons8.com/fluency/48/electrical.png" alt="Power"/> | **Power Systems Analysis** | Modeling & simulation of complex electrical networks, renewable energy integration, distribution optimization |
-| <img width="40" src="https://img.icons8.com/fluency/48/circuit.png" alt="IoT"/> | **Embedded Systems & IoT** | Firmware development for microcontrollers, real-time monitoring solutions (SCADA, LoRaWAN) |
-| <img width="40" src="https://img.icons8.com/fluency/48/source-code.png" alt="CAD"/> | **CAD Software Development** | Custom tools for power engineering and analysis |
+| Domain | Description |
+|:-------|:------------|
+| **Power Systems Analysis** | Modeling & simulation of complex electrical networks, renewable energy integration, distribution optimization |
+| **Embedded Systems & IoT** | Firmware development for microcontrollers, real-time monitoring solutions (SCADA, LoRaWAN) |
+| **CAD Software Development** | Custom tools for power engineering and analysis |
 
 ---
 
@@ -87,7 +87,7 @@ Location: Goma, DR Congo
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alainpaluku&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF" alt="Top Languages"/>
 </a>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alainpaluku&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=alainpaluku&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
