@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=200&section=header&text=Alain%20Paluku&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=M.Sc.%20Power%20Systems%20|%20Embedded%20%26%20IoT%20Developer&descSize=18&descAlignY=55" width="100%" />
+# 👋 ALAIN PALUKU
+
+### M.Sc. Power Systems | Embedded & IoT Developer
 
 *Designing the future of smart energy*
 
@@ -114,4 +116,4 @@ Let's discuss your next project in power systems, IoT, or embedded development.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=100&section=footer" width="100%" />
+---
