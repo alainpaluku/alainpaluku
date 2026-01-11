@@ -76,23 +76,17 @@ Location: Goma, DR Congo
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=alainpaluku&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=alainpaluku&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alainpaluku&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-</picture>
+<a href="https://github.com/alainpaluku">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alainpaluku&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
+</a>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alainpaluku&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alainpaluku&layout=compact&theme=default&hide_border=true&langs_count=8" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alainpaluku&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
-</picture>
+<a href="https://github.com/alainpaluku">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alainpaluku&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages" />
+</a>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=alainpaluku&theme=github-dark-blue&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=alainpaluku&theme=default&hide_border=true" />
-  <img src="https://streak-stats.demolab.com?user=alainpaluku&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</picture>
+<a href="https://github.com/alainpaluku">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alainpaluku&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+</a>
 
 </div>
 
