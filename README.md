@@ -76,10 +76,23 @@ Location: Goma, DR Congo
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=alainpaluku&show_icons=true&theme=github_dark&hide_border=true&count_private=true&icon_color=58A6FF&title_color=58A6FF" alt="GitHub Stats" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alainpaluku&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF" alt="Top Languages" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=alainpaluku&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=alainpaluku&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alainpaluku&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+</picture>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alainpaluku&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alainpaluku&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alainpaluku&layout=compact&theme=default&hide_border=true&langs_count=8" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alainpaluku&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=alainpaluku&theme=github-dark-blue&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=alainpaluku&theme=default&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=alainpaluku&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+</picture>
 
 </div>
 
