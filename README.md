@@ -82,13 +82,15 @@ Location: Goma, DR Congo
 
 <div align="center">
 
-![alainpaluku's GitHub stats](https://github-readme-stats.vercel.app/api?username=alainpaluku&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alainpaluku&layout=compact&theme=radical&hide_border=true&langs_count=8)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=alainpaluku&theme=radical&hide_border=true)](https://github.com/alainpaluku)
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alainpaluku&theme=redical&hide_border=true)
+
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alainpaluku&theme=radical)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alainpaluku&theme=radical)
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alainpaluku&theme=radical)
+
+![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alainpaluku&theme=radical&utcOffset=2)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alainpaluku&theme=radical)
 
 </div>
 
