@@ -15,7 +15,7 @@
 
 ---
 
-## About Me
+## ABOUT ME
 
 I'm a passionate engineer bridging the gap between **electrical engineering** and **modern software solutions**. My expertise lies in Smart Grids, embedded systems development, and energy data analysis.
 
@@ -29,22 +29,23 @@ Location: Goma, DR Congo
 
 ---
 
-## Tech Stack
+## TECH STACK
 
 <div align="center">
 
-### Languages & Development
+### LANGUAGES & DEVELOPMENT
 
 <a href="#"><img src="https://skillicons.dev/icons?i=rust,go,ts,c&theme=dark" alt="Languages" /></a>
 
-### Hardware & IoT
+### HARDWARE & IOT
 
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
 ![LoRaWAN](https://img.shields.io/badge/LoRaWAN-1A1A1A?style=for-the-badge)
 
-### Tools & Simulation
+### TOOLS & SIMULATION
 
 <a href="#"><img src="https://skillicons.dev/icons?i=matlab,arduino&theme=dark" alt="Tools" /></a>
 
@@ -55,7 +56,7 @@ Location: Goma, DR Congo
 
 ---
 
-## What I Do
+## WHAT I DO
 
 | Domain | Description |
 |:------:|:------------|
@@ -65,7 +66,7 @@ Location: Goma, DR Congo
 
 ---
 
-## Featured Projects
+## FEATURED PROJECTS
 
 | Project | Stack | Description |
 |:--------|:------|:------------|
@@ -75,27 +76,21 @@ Location: Goma, DR Congo
 
 ---
 
-## GitHub Analytics
+## GITHUB ANALYTICS
 
 <div align="center">
 
-<a href="https://github.com/alainpaluku">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alainpaluku&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
-</a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alainpaluku&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-<a href="https://github.com/alainpaluku">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alainpaluku&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages" />
-</a>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alainpaluku&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
-<a href="https://github.com/alainpaluku">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alainpaluku&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</a>
+![GitHub Streak](https://streak-stats.demolab.com?user=alainpaluku&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-## Let's Connect
+## LET'S CONNECT
 
 <div align="center">
 
