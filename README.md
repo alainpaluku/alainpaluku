@@ -2,7 +2,7 @@
 
 # 👋 ALAIN PALUKU
 
-### M.Sc. Power Systems | Embedded & IoT Developer
+### ELECTRICAL ENGINEER | EMBEDDED SYSTEMS AND CAD SOFTWARE DEVELOPER
 
 *Designing the future of smart energy*
 
@@ -22,12 +22,7 @@
 I'm a passionate engineer bridging the gap between **electrical engineering** and **modern software solutions**. My expertise lies in Smart Grids, embedded systems development, and energy data analysis.
 
 ```yaml
-Education: M.Sc. Candidate in Power Systems
-Experience: 5+ Years of Study
-Projects: 15+ IoT Projects Completed
-Research: 3 Publications
-Location: Goma, DR Congo
-```
+
 
 ---
 
