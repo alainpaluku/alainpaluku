@@ -21,9 +21,6 @@
 
 I'm a passionate engineer bridging the gap between **electrical engineering** and **modern software solutions**. My expertise lies in Smart Grids, embedded systems development, and energy data analysis.
 
-```yaml
-
-
 ---
 
 ## TECH STACK
