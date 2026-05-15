@@ -87,6 +87,50 @@ I am an **Electrical Engineer** currently pursuing a **Master's in Electroenerge
 
 ---
 
+### System Architectures
+
+#### Distributed IoT Ecosystem
+```mermaid
+graph LR
+    subgraph "Edge Devices"
+        ESP32[ESP32 / STM32 Sensors]
+        Gateway[Rust Edge Gateway]
+    end
+
+    subgraph "Distributed Core"
+        NATS((NATS Messaging))
+        GoSrv[Go Microservices]
+        K8s{Kubernetes}
+    end
+
+    subgraph "Infrastructure"
+        Postgres[(PostgreSQL)]
+        GCP[Google Cloud Platform]
+    end
+
+    ESP32 --> Gateway
+    Gateway <--> NATS
+    NATS <--> GoSrv
+    GoSrv --- K8s
+    GoSrv --- Postgres
+    K8s --- GCP
+```
+
+#### Embedded Software Stack
+```mermaid
+graph TD
+    App[Rust Application Logic]
+    HAL[Hardware Abstraction Layer]
+    RTOS[Real-Time Execution / PAC]
+    MCU[Microcontroller Peripheral]
+
+    App --> HAL
+    HAL --> RTOS
+    RTOS --> MCU
+```
+
+---
+
 ### Featured Projects
 
 - **Embedded Runtime**: High-performance RTOS-like environments for STM32 and ESP32 built with Rust, focusing on memory safety and real-time execution for industrial IoT.
