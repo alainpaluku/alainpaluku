@@ -20,13 +20,13 @@
 
 ---
 
-### ⚡ About Me
+### About Me
 
 I am an **Electrical Engineer** currently pursuing a **Master's in Electroenergetics** at *Université Catholique la Sapientia*. My work bridges the gap between high-power electrical systems and low-level software engineering. I specialize in designing resilient power infrastructures, industrial automation, and high-performance embedded systems using **Rust** and **Go**.
 
 ---
 
-### 🎓 Education
+### Education
 
 - **Master’s in Electroenergetics** (In progress)
   *Université Catholique la Sapientia – Goma*
@@ -37,7 +37,7 @@ I am an **Electrical Engineer** currently pursuing a **Master's in Electroenerge
 
 ---
 
-### 🛠️ Expertise
+### Expertise
 
 <div align="center">
 
@@ -51,7 +51,7 @@ I am an **Electrical Engineer** currently pursuing a **Master's in Electroenerge
 
 ---
 
-### 🚀 Stack
+### Stack
 
 <div align="center">
 
@@ -87,23 +87,23 @@ I am an **Electrical Engineer** currently pursuing a **Master's in Electroenerge
 
 ---
 
-### 📁 Featured Projects
+### Featured Projects
 
-- **⚡ Embedded Runtime**: High-performance RTOS-like environments for STM32 and ESP32 built with Rust, focusing on memory safety and real-time execution for industrial IoT.
-- **🌐 Distributed IoT Core**: A scalable, cloud-native backend architecture for managing massive device fleets using Go, NATS messaging, and Kubernetes orchestration.
-- **🤖 AI CAD Engine**: An intelligent system leveraging Python, PyTorch, and Computer Vision to automate the analysis of complex electrical schematics and optimize CAD workflows.
-- **📱 Native Engineering UI**: High-fidelity mobile dashboards developed with Kotlin and Swift, providing real-time telemetry and control for industrial power systems.
+- **Embedded Runtime**: High-performance RTOS-like environments for STM32 and ESP32 built with Rust, focusing on memory safety and real-time execution for industrial IoT.
+- **Distributed IoT Core**: A scalable, cloud-native backend architecture for managing massive device fleets using Go, NATS messaging, and Kubernetes orchestration.
+- **AI CAD Engine**: An intelligent system leveraging Python, PyTorch, and Computer Vision to automate the analysis of complex electrical schematics and optimize CAD workflows.
+- **Native Engineering UI**: High-fidelity mobile dashboards developed with Kotlin and Swift, providing real-time telemetry and control for industrial power systems.
 
 ---
 
-### 🏆 Certifications & Publications
+### Certifications & Publications
 
 - **Certifications**: Focus on Power Systems, IoT Security, and Rust Development.
 - **Articles**: Technical insights on energy and industry (available on my [website](https://alainpaluku.com/en/articles/)).
 
 ---
 
-### 🌟 Interests
+### Interests
 
 - **Renewable Energy**: Passionate about the transition to sustainable power grids.
 - **Open Source**: Contributing to the Rust and IoT communities.
@@ -111,7 +111,7 @@ I am an **Electrical Engineer** currently pursuing a **Master's in Electroenerge
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
