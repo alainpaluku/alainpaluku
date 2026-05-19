@@ -18,26 +18,26 @@
 
 <br>
 
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+<p align="center">
   <a href="https://alainpaluku.com">
-    <img src="https://img.shields.io/badge/Website-alainpaluku.com-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="Alain Paluku Official Website - Electrical Engineering and Embedded Systems" />
-  </a>
+    <img src="https://img.shields.io/badge/Website-alainpaluku.com-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Alain Paluku Official Website" />
+  </a>&nbsp;
   <a href="https://linkedin.com/in/alainpaluku">
-    <img src="https://img.shields.io/badge/LinkedIn-58A6FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="Alain Paluku LinkedIn" />
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Alain Paluku LinkedIn" />
+  </a>&nbsp;
   <a href="https://huggingface.co/alainpaluku">
-    <img src="https://img.shields.io/badge/HuggingFace-58A6FF?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=0D1117" alt="Alain Paluku Hugging Face" />
-  </a>
+    <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Alain Paluku Hugging Face" />
+  </a>&nbsp;
   <a href="https://medium.com/@alainpaluku">
-    <img src="https://img.shields.io/badge/Medium-58A6FF?style=for-the-badge&logo=medium&logoColor=white&labelColor=0D1117" alt="Alain Paluku Medium" />
-  </a>
+    <img src="https://img.shields.io/badge/Medium-121212?style=for-the-badge&logo=medium&logoColor=white" alt="Alain Paluku Medium" />
+  </a>&nbsp;
   <a href="mailto:dev@alainpaluku.com">
-    <img src="https://img.shields.io/badge/Contact-58A6FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Contact Alain Paluku" />
-  </a>
+    <img src="https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Alain Paluku" />
+  </a>&nbsp;
   <a href="https://wa.me/243897023743">
-    <img src="https://img.shields.io/badge/WhatsApp-58A6FF?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0D1117" alt="Chat with Alain Paluku on WhatsApp" />
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Chat with Alain Paluku on WhatsApp" />
   </a>
-</div>
+</p>
 
 </div>
 
@@ -45,7 +45,7 @@
 
 <table width="100%">
   <tr>
-    <td width="60%" valign="top">
+    <td width="65%" valign="top">
       <h3>Professional Profile</h3>
       <p>
         I am a professional <b>Electrical Engineer</b> and <b>Embedded Systems Software Developer</b>. I am currently pursuing a <b>Master's in Electroenergetics</b> (Power Systems & Renewable Energy) at <i>Université Catholique la Sapientia</i>.
@@ -53,25 +53,21 @@
       <p>
         My expertise lies at the intersection of <b>High-Power Electrical Infrastructure</b> and <b>Low-Level Software Engineering</b>. I specialize in designing resilient power systems, industrial automation solutions, and high-performance <b>embedded firmware</b> using <b>Rust</b> and <b>Go</b> for the <b>Industrial Internet of Things (IIoT)</b>.
       </p>
+      <p align="center">
+        <br>
+        <a href="https://alainpaluku.com/en/contact/">
+          <img src="https://img.shields.io/badge/--Contact%20Me--0D1117?style=for-the-badge&labelColor=58A6FF&color=0D1117" alt="Contact Alain Paluku" />
+        </a>&nbsp;&nbsp;
+        <a href="https://alainpaluku.com/en/about/">
+          <img src="https://img.shields.io/badge/--Learn%20More--0D1117?style=for-the-badge&labelColor=58A6FF&color=0D1117" alt="Learn about Alain Paluku" />
+        </a>
+      </p>
     </td>
-    <td width="40%" valign="top">
-      <div align="center">
-        <img src="https://assets.alainpaluku.com/profil/alainpaluku.png" width="180px" style="border-radius: 50%;" alt="Alain Paluku Profile Picture" />
-      </div>
+    <td width="35%" align="center">
+      <img src="https://assets.alainpaluku.com/profil/alainpaluku.png" width="200px" style="border-radius: 50%;" alt="Alain Paluku Profile Picture" />
     </td>
   </tr>
 </table>
-
----
-
-<div align="center">
-  <a href="https://alainpaluku.com/en/contact/">
-    <img src="https://img.shields.io/badge/--Contact%20Me--0D1117?style=for-the-badge&labelColor=58A6FF&color=0D1117" alt="Contact Alain Paluku - Electrical Engineer" />
-  </a>
-  <a href="https://alainpaluku.com/en/about/">
-    <img src="https://img.shields.io/badge/--Learn%20More--0D1117?style=for-the-badge&labelColor=58A6FF&color=0D1117" alt="Learn about Alain Paluku's Engineering Expertise" />
-  </a>
-</div>
 
 ---
 
@@ -146,13 +142,19 @@
     </td>
   </tr>
   <tr>
+    <td><b>Web & 3D Ecosystem</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=solidjs,wasm,ts,nodejs&theme=dark" alt="Web Technologies" />
+    </td>
+  </tr>
+  <tr>
     <td><b>Infrastructure & Cloud</b></td>
     <td>
       <img src="https://skillicons.dev/icons?i=kubernetes,docker,gcp,postgres,linux,git&theme=dark" alt="Infrastructure Tools" />
       <br/>
-      <img src="https://img.shields.io/badge/NATS-1B1F23?style=flat&logo=natsdotio&logoColor=white" alt="NATS" />
+      <img src="https://img.shields.io/badge/NATS-27AAE1?style=flat&logo=natsdotio&logoColor=white" alt="NATS" />
       <img src="https://img.shields.io/badge/Podman-892CA0?style=flat&logo=podman&logoColor=white" alt="Podman" />
-      <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white" alt="Railway" />
+      <img src="https://img.shields.io/badge/Railway-F0047F?style=flat&logo=railway&logoColor=white" alt="Railway" />
     </td>
   </tr>
   <tr>
@@ -218,70 +220,54 @@ graph TD
 <h3>Latest Technical Articles</h3>
 
 <p align="justify">
-  I regularly share technical insights on power systems, industrial automation, and embedded software development. Explore my latest publications on <a href="https://alainpaluku.com/en/articles/">alainpaluku.com</a>.
+  I regularly share technical insights on power systems, industrial automation, and embedded software development. I am currently authoring an in-depth technical piece titled: <i>« Conception d’un système de maintenance prédictive pour moteurs électriques »</i>, focusing on signal processing and AI for industrial reliability.
 </p>
 
-<table width="100%">
-  <tr>
-    <td>
-      <a href="https://alainpaluku.com/en/articles/">
-        <img src="https://img.shields.io/badge/--Read%20All%20Articles--0D1117?style=for-the-badge&labelColor=58A6FF&color=0D1117" alt="Read technical articles by Alain Paluku" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://alainpaluku.com/en/articles/">
+    <img src="https://img.shields.io/badge/--Read%20All%20Articles--0D1117?style=for-the-badge&labelColor=58A6FF&color=0D1117" alt="Read technical articles by Alain Paluku" />
+  </a>
+</p>
 
 ---
 
 <h3>Featured Engineering Projects</h3>
 
 <ul>
+  <li><b>Predictive Maintenance System</b>: Developing an open-source hardware/software prototype for industrial electric motors to detect bearing, alignment, and insulation failures via signal processing.</li>
+  <li><b>ArchAI-CAD</b>: A web-based SaaS for 3D parametric architectural design driven by Generative AI. Engineered using <b>Maker.js</b> for complex 2D zoning coordinates, seamlessly extruded into 3D volumes via <b>Replicad</b>, powered by SolidJS and WebAssembly.</li>
   <li><b>Embedded Runtime</b>: High-performance RTOS-like environments for STM32 and ESP32 built with Rust, focusing on memory safety and real-time execution for industrial IoT.</li>
   <li><b>Distributed IoT Core</b>: A scalable, cloud-native backend architecture for managing massive device fleets using Go, NATS messaging, and Kubernetes orchestration.</li>
-  <li><b>AI CAD Engine</b>: An intelligent system leveraging Python, PyTorch, and Computer Vision to automate the analysis of complex electrical schematics and optimize CAD workflows.</li>
-  <li><b>Native Engineering UI</b>: High-fidelity mobile dashboards developed with Kotlin and Swift, providing real-time telemetry and control for industrial power systems.</li>
 </ul>
 
 ---
 
 <h3>Engineering Metrics & Insights</h3>
 
-<div align="center">
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alainpaluku&theme=onedark&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies" />
+</p>
 
-<table width="100%">
-  <tr>
-    <td align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=alainpaluku&theme=onedark&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alainpaluku&theme=github_dark" width="100%" alt="Profile Summary" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alainpaluku&theme=github_dark" alt="Profile Summary" />
+</p>
 
-<br/>
-
-<div style="display: flex; justify-content: center; gap: 10px;">
+<p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=alainpaluku&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="General Stats" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alainpaluku&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
-</div>
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alainpaluku&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&side_icons=true" alt="Contribution Streak" />
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alainpaluku&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&side_icons=true" alt="Contribution Streak" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alainpaluku&theme=github-dark&hide_border=true" width="100%" alt="Activity Graph" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alainpaluku&theme=github-dark&hide_border=true" width="100%" alt="Activity Graph" />
+</p>
 
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=120&section=footer" alt="Footer Decoration" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=120&section=footer" alt="Footer Decoration" />
 </div>
+```
