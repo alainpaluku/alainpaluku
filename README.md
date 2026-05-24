@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Master's+in+Electroenergetics;Power+Systems+%26+Renewable+Energy;Rust+Embedded+Systems;Distributed+IoT+Infrastructure;Industrial+Automation+%26+AI" alt="Alain Paluku - Technical Specialties" />
+<img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=600&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Master's+in+Electroenergetics;Power+Systems+%26+Renewable+Energy;Rust+Embedded+Systems;Distributed+IoT+Infrastructure;Industrial+Automation+%26+AI" alt="Alain Paluku - Technical Specialties" />
 
 <br>
 
@@ -20,24 +20,39 @@
 
 <p align="center">
   <a href="https://alainpaluku.com">
-    <img src="https://img.shields.io/badge/Website-alainpaluku.com-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Alain Paluku Official Website" />
+    <img src="https://img.shields.io/badge/Website-alainpaluku.com-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=58A6FF" alt="Alain Paluku Official Website" />
   </a>&nbsp;
   <a href="https://linkedin.com/in/alainpaluku">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Alain Paluku LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0D1117?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=58A6FF" alt="Alain Paluku LinkedIn" />
   </a>&nbsp;
   <a href="https://huggingface.co/alainpaluku">
-    <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Alain Paluku Hugging Face" />
+    <img src="https://img.shields.io/badge/HuggingFace-Models-0D1117?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=58A6FF" alt="Alain Paluku Hugging Face" />
   </a>&nbsp;
   <a href="https://medium.com/@alainpaluku">
-    <img src="https://img.shields.io/badge/Medium-121212?style=for-the-badge&logo=medium&logoColor=white" alt="Alain Paluku Medium" />
+    <img src="https://img.shields.io/badge/Medium-Articles-0D1117?style=for-the-badge&logo=medium&logoColor=white&labelColor=58A6FF" alt="Alain Paluku Medium" />
   </a>&nbsp;
   <a href="mailto:dev@alainpaluku.com">
-    <img src="https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Alain Paluku" />
+    <img src="https://img.shields.io/badge/Contact-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white&labelColor=58A6FF" alt="Contact Alain Paluku" />
   </a>&nbsp;
   <a href="https://wa.me/243897023743">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Chat with Alain Paluku on WhatsApp" />
+    <img src="https://img.shields.io/badge/WhatsApp-Chat-0D1117?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=58A6FF" alt="Chat with Alain Paluku on WhatsApp" />
   </a>
 </p>
+
+<details>
+<summary><b>QUICK NAVIGATION</b></summary>
+<br />
+<ul>
+  <li><a href="#professional-profile">PROFESSIONAL PROFILE</a></li>
+  <li><a href="#academic-background">01. ACADEMIC BACKGROUND & EDUCATION</a></li>
+  <li><a href="#technical-expertise">TECHNICAL EXPERTISE</a></li>
+  <li><a href="#technological-stack">TECHNOLOGICAL STACK</a></li>
+  <li><a href="#system-architectures">02. SYSTEM ARCHITECTURES & DESIGN PATTERNS</a></li>
+  <li><a href="#technical-articles">LATEST TECHNICAL ARTICLES</a></li>
+  <li><a href="#engineering-projects">FEATURED ENGINEERING PROJECTS</a></li>
+  <li><a href="#engineering-metrics">ENGINEERING METRICS & INSIGHTS</a></li>
+</ul>
+</details>
 
 </div>
 
@@ -46,7 +61,7 @@
 <table width="100%">
   <tr>
     <td width="65%" valign="top">
-      <h3>Professional Profile</h3>
+      <h3 id="professional-profile">PROFESSIONAL PROFILE</h3>
       <p>
         I am a professional <b>Electrical Engineer</b> and <b>Embedded Systems Software Developer</b>. I am currently pursuing a <b>Master's in Electroenergetics</b> (Power Systems & Renewable Energy) at <i>Université Catholique la Sapientia</i>.
       </p>
@@ -72,7 +87,7 @@
 ---
 
 <details>
-<summary><b>01. Academic Background & Education</b></summary>
+<summary id="academic-background"><b>01. ACADEMIC BACKGROUND & EDUCATION</b></summary>
 <br>
 <blockquote>
   <b>Master’s in Electroenergetics</b> (In progress)<br/>
@@ -90,7 +105,7 @@
 
 ---
 
-<h3>Technical Expertise</h3>
+<h3 id="technical-expertise">TECHNICAL EXPERTISE</h3>
 
 <table width="100%">
   <tr>
@@ -120,7 +135,7 @@
 
 ---
 
-<h3>Technological Stack</h3>
+<h3 id="technological-stack">TECHNOLOGICAL STACK</h3>
 
 <table width="100%">
   <tr>
@@ -170,10 +185,10 @@
 ---
 
 <details>
-<summary><b>02. System Architectures & Design Patterns</b></summary>
+<summary id="system-architectures"><b>02. SYSTEM ARCHITECTURES & DESIGN PATTERNS</b></summary>
 <br>
 
-#### Distributed IoT Ecosystem
+#### DISTRIBUTED IOT ECOSYSTEM
 ```mermaid
 graph LR
     subgraph "Edge Devices"
@@ -200,7 +215,7 @@ graph LR
     K8s --- GCP
 ```
 
-#### Embedded Software Stack
+#### EMBEDDED SOFTWARE STACK
 ```mermaid
 graph TD
     App[Rust Application Logic]
@@ -217,7 +232,7 @@ graph TD
 
 ---
 
-<h3>Latest Technical Articles</h3>
+<h3 id="technical-articles">LATEST TECHNICAL ARTICLES</h3>
 
 <p align="justify">
   I regularly share technical insights on power systems, industrial automation, and embedded software development. I am currently authoring an in-depth technical piece titled: <i>« Conception d’un système de maintenance prédictive pour moteurs électriques »</i>, focusing on signal processing and AI for industrial reliability.
@@ -231,7 +246,7 @@ graph TD
 
 ---
 
-<h3>Featured Engineering Projects</h3>
+<h3 id="engineering-projects">FEATURED ENGINEERING PROJECTS</h3>
 
 <ul>
   <li><b>Predictive Maintenance System</b>: Developing an open-source hardware/software prototype for industrial electric motors to detect bearing, alignment, and insulation failures via signal processing.</li>
@@ -242,7 +257,7 @@ graph TD
 
 ---
 
-<h3>Engineering Metrics & Insights</h3>
+<h3 id="engineering-metrics">ENGINEERING METRICS & INSIGHTS</h3>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=alainpaluku&theme=onedark&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies" />
@@ -253,16 +268,16 @@ graph TD
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=alainpaluku&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="General Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alainpaluku&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=alainpaluku&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&font_family=Nunito" alt="General Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alainpaluku&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&font_family=Nunito" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alainpaluku&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&side_icons=true" alt="Contribution Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alainpaluku&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&side_icons=true&font=Nunito" alt="Contribution Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alainpaluku&theme=github-dark&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alainpaluku&theme=github-dark&hide_border=true&font=Nunito" width="100%" alt="Activity Graph" />
 </p>
 
 ---
